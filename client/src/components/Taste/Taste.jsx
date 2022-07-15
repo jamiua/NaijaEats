@@ -17,7 +17,6 @@ class Taste extends Component {
         .get(`${SERVER_URL}/meals`)
         .then(response => {
             const allMealsData = response.data
-            // console.log(allMealsData)
             
             this.setState({
                 mealsData: allMealsData
@@ -33,25 +32,23 @@ class Taste extends Component {
         event.preventDefault()
         let userMeal = this.state.mealsData
 
-        // console.log(userMeal[0].type)
-
         let userPossibleMeal = userMeal.filter(meal => meal.type === type)
+            console.log(userPossibleMeal);
+        
+        let finalUserMeals = userPossibleMeal[Math.floor(Math.random() * userPossibleMeal.length)]
+       
 
-        let finalUserMeal = userPossibleMeal[0]
-
-        this.setState({selectedMeal: finalUserMeal})
+        this.setState({selectedMeal: finalUserMeals})
             
-            console.log(finalUserMeal)
+            console.log(finalUserMeals)
         
     }
-
 
     componentDidMount = () => {
         axios
         .get(`${SERVER_URL}/meals`)
         .then(response => {
             const allMealsData = response.data
-            // console.log(allMealsData)
 
             this.setState({
                 mealsData: allMealsData
@@ -61,12 +58,6 @@ class Taste extends Component {
             console.log(error);
         })
     }
-
-    // componentDidUpdate = (prevProps) => {
-    //     const randomMealId = this.props.match.params.id;
-    //     if (prevProps.match.params.id !== new)
-    // }
-    /* onclick={handleClick} */
 
     render() {
         return (
@@ -95,13 +86,14 @@ class Taste extends Component {
                     </figure>
                 </article>
             </section>
-            <section>
+            <section className="recipe">
                 {this.state.selectedMeal && 
                     (
-                        <>
+                      <section className="recipe__card">
+                            <h1>{this.state.selectedMeal.name}</h1>
+                            <img src={this.state.selectedMeal.image} className="recipe__image" href="/" ></img>
                             <p>{this.state.selectedMeal.description}</p>
-                            <p>{this.state.selectedMeal.instructions}</p>
-                        </>
+                    </section>
                     ) 
                 }
             </section>

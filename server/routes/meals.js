@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const fs = require('fs');
 
-const readVideos = () => {
+const readMeals = () => {
     const allMealsFile = fs.readFileSync('./data/meals.json');
     const mealsData = JSON.parse(allMealsFile);
     return mealsData;
@@ -10,14 +10,14 @@ const readVideos = () => {
 
 // Get all meals on PORT/meals/
 router.get('/', (req, res) => {
-    const mealsData = readVideos();
+    const mealsData = readMeals();
     res.status(200).json(mealsData);
   });
 
 // Get 1 meal based on mealId /meals/:mealId
 router.get('/:mealId', (req, res) => {
     const mealId = req.params.mealId;
-    const mealsData = readVideos();
+    const mealsData = readMeals();
     const singleMeal = mealsData.find(meal => meal.id === mealId);
   
     if (!singleMeal) {

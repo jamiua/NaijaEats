@@ -1,3 +1,6 @@
+h1 {
+    color: #06C167;
+}
 
 .taste {
     display: flex;
@@ -19,5 +22,27 @@
         margin-top: 2rem;
         font-size: 1.2rem ;
         
+    }
+}
+
+.recipe {
+    display: flex;
+    justify-content: center;
+    &__card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 24rem;
+        height: 30rem;
+        border-radius: 0.8rem;
+        border: 0.2rem solid #142328;
+        margin: 1rem;
+        padding: 0.5rem;
+    }
+    &__image {
+        width: 10rem;
+        height: 10rem;
+        border-radius: 0.8rem;
     }
 }

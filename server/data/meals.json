@@ -1,114 +1,114 @@
 [
     {
         "id":"1",
-        "type":"spicy",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Spicy",
+        "name": "Pepper soup",
+        "description":"A plate of pepper soup would have you reaching for water with every spoon you take. Pepper soup is prepared using a great deal of pepper and other spices, which gives it a very delectable aroma. Goat Meat, chicken, catfish is often used in preparing it, and unlike other soups in Nigeria, pepper soup is eaten with a spoon most times.",
+        "image":"https://healthguide.ng/wp-content/uploads/2021/03/Screenshot_2021-03-14-17-01-03-32.jpg?ezimgfmt=ng:webp/ngcb1"
     },
     {
         "id":"2",
-        "type":"spicy",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Spicy",
+        "name": "Suya",
+        "description":"Suya is another food that ranks high when it comes to spiciness. Suya is barbecued meat prepared using a local grill. The kind of meat used varies, as anything could work, including beef, cow meat, ram meat, chicken, and even fish. Yaji, an assortment of spices, is rubbed on the meat before serving.",
+        "image":"https://healthguide.ng/wp-content/uploads/2020/08/IMG_20200809_155122.jpg?ezimgfmt=ng:webp/ngcb1"
     },
     {
         "id":"3",
-        "type":"spicy",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Spicy",
+        "name": "Peppered Snails",
+        "description":"Snail dishes are very popular in Nigeria, however, the most spiciest one is peppered snail. The meal is comprised of boiled snails stir-fried in onions, garlic, peppers, and other spices. It can serve as a fantastic finger food or appetizer that will surely leave you licking your fingers! It is also very healthy, as snail meat is very nutritious.",
+        "image":"https://healthguide.ng/wp-content/uploads/2021/12/images-11-2021-12-01T224539.506.jpeg?ezimgfmt=rs:420x280/rscb1/ng:webp/ngcb1"
     },
     {
         "id":"4",
-        "type":"spicy",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Spicy",
+        "name": "Kilishi",
+        "description":"Like Suya, Kilishi is another food that originated from the North and also involves meat. But in this case, the meat is left to dry, which ends up making it a bit hard and chewy. An assortment of garnish, including labu, which is a paste made from peanuts, pepper, ground onions, and sometimes honey or date palm (as a sweetener), is used to coat the meat. It is then left to dry further before consumption. ",
+        "image":"https://healthguide.ng/wp-content/uploads/2021/05/images-11-2021-05-15T180145.831.jpeg?ezimgfmt=ng:webp/ngcb1"
     },
     {
         "id":"5",
-        "type":"sugary",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Sweet",
+        "name": "Puff-Puff",
+        "description":"A lot of travelers die for Puff-Puff when they come to Nigeria. Although it is just fried dough made from simple baking ingredients including flour, yeast, butter, and vegetable oil, its lovely flavor and the crispy flavor are greatly seductive. Little is known about the history of Puff-Puff. The only information is that it came from Sub-Saharan Africa. It is the signature snack of Nigeria and is also popular in other neighboring countries.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/puff-puff.jpg"
     },
     {
         "id":"6",
-        "type":"sugary",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Sweet",
+        "name": "Chin Chin",
+        "description":"Chin Chin is a festive snack that is typically served at Christmas and weddings. It is often said that there is no wedding in Nigeria without Chin Chin. Besides those special occasions, you can also enjoy Chin Chin all year round.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/chin-chin.jpg"
     },
     {
         "id":"7",
-        "type":"sugary",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Sweet",
+        "name": "Kunun Zaki",
+        "description":"Kunun Zaki is a pervasive non-alcoholic drink in the Northern part of Nigeria, especially among the Hausas people. It is believed to originate here but still remains unconfirmed.  This drink is rather common among low and middle-class people.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/kunun-zaki.jpg"
     },
     {
         "id":"8",
-        "type":"sugary",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Sweet",
+        "name": "Zobo (Hibiscus Tea)",
+        "description":"No matter whether you go to the restaurant, local houses, or party, you can always find Zobo, a classic and authentic Nigerian drink that has gained popularity around the world. “Zobo” is the Nigerian word for the hibiscus plant, which is the main ingredient of this delicious drink.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/hibicus-tea.jpg"
     },
     {
         "id":"9",
-        "type":"savory",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Salty",
+        "name": "Tuwo Shinkafa (Rice Meal)",
+        "description":"Tuwo Shinkafa was invented by the Hausa tribe who used to live in the northern area of the country. It comes in the form of ball-shaped mashed rice or corn. I believe that you can’t find mashed rice in other cuisines. Traditionally, people use short-grain rice but sometimes they also use rice flour.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/rice-meal.jpg"
     },
     {
         "id":"10",
-        "type":"savory",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Salty",
+        "name": "Ẹ̀bà (Cassava Meal)",
+        "description":"Nigerian people love to make food from the cassava root, also called “Garri.” They use dried grated cassava flour to make Ẹ̀bà, a comfort food that is very popular among Yoruba people. It is also made in other West African sub-regions. Ẹ̀bà is made by cooking dried grated cassava flour in hot water and shaping it into a large ball. Its color can be white or yellow, depending on how it is cooked. If people add palm oil when drying the grated cassava, then the dish will have a yellow hue. People eat Ẹ̀bà using their fingers. They take out a small piece, turn it into a small ball, and then dip it in soup or stew.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/cassava-meal.jpg"
     },
     {
         "id":"11",
-        "type":"savory",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Salty",
+        "name": "Boli (Roasted Plantain)",
+        "description":"Roasted plantain will perfectly serve as a snack or even a main dish in your Nigerian meal. The amazing thing is that both ripe and unripe plantain are roasted. So don’t worry if you don’t like the sweetness of ripe plantain.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/roasted-plantain.jpg"
     },
     {
         "id":"12",
-        "type":"savory",
+        "type":"Salty",
+        "name": "Jollof Rice",
         "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
         "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
     },
     {
         "id":"13",
-        "type":"umami",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Smoky",
+        "name": "Dodo Ikire (Fried Plantain)",
+        "description":"Are you curious about what Nigerian people do with ripe plantains? They deep-fry it in palm oil, creating a delicious side dish. Season it with some salt and pepper and fry it in palm oil. The result was surprisingly successful, so Dodo Ikire was born. Dodo Ikire does not have a stunning appearance. It is almost black in color, but its delicious taste already outweighs the look.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/dodo-ikire.jpg"
     },
     {
         "id":"14",
-        "type":"umami",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Smoky",
+        "name": "Abacha (African Salad)",
+        "description":"Abacha is native to the Igbo tribe, who resided in Eastern Nigeria. It is made from the Nigerians’ favorite root vegetable, cassava. Most vegetable dishes in this country are created from cassava.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/african-salad.jpg"
     },
     {
         "id":"15",
-        "type":"umami",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Smoky",
+        "name": "Moin Moin (Steamed Bean Cakes)",
+        "description":"When Nigerian people enjoy Jollof rice and fried plantains, they often place a dish of Moin Moin on the table. They also serve it at parties and special occasions alongside salad and soft drinks. Moin Moin is one of the most popular Nigerian side dishes.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/moin-moin.jpg"
     },
     {
         "id":"16",
-        "type":"umami",
-        "description":"This iconic dish is all about the details. Made with blended vegetables and a spicy tomato sauce that will leave you wanting more",
-        "instructions": ["", "","","",""],
-        "image":"https://www.thespruceeats.com/thmb/6rAHkiAPJi_vBn5Kbx95VyBdRU0=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NigerianJollofwithBeef_17-01-6d2e6477a95a4ab28ebd14f50d71c7fb.JPG"
+        "type":"Smoky",
+        "name": "Àkàrà (Fried Bean Cake)",
+        "description":"Àkàrà is a famous authentic Nigerian breakfast recipe. It is called “Àkàrà” by the Yoruba people who invented it. Hausa people call it “Kosai.” Tradition has it that Yoruba people often serve Àkàrà to the soldiers who had just won the war.",
+        "image":"https://www.lacademie.com/wp-content/uploads/2022/02/fried-bean-cake.jpg"
     }
 ]
