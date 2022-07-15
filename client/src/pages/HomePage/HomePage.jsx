@@ -4,7 +4,10 @@ import React from 'react';
 const HomePage = () => {
     return (
         <div>
-            Testing
+            <section>
+                <h1> Hungry?</h1>
+                <h2> Pick your favourite taste to see your next recipe</h2>
+            </section>
         </div>
     );
 };
