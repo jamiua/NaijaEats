@@ -3,4 +3,20 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
+
+    &__image{
+       border-radius: 50%;
+       font-size: 1.5rem;
+       border: 0.2rem solid #06C167 ;
+       padding: 1rem; 
+    }
+    &__image:hover {
+        transition: border-width 0.3s linear;
+        border:0.4rem solid #06C167 ;
+    }
+    &__text {
+        margin-top: 2rem;
+        font-size: 1.2rem ;
+        
+    }
 }
