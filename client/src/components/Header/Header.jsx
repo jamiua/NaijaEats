@@ -1,9 +1,12 @@
 import logo from "../../assets/NaijaEats-logo.png"
+import "./Header.scss";
 
 function Header() {
     return(
         <section> 
-            <img src={logo} alt="Naija Eats Logo" className="logo" />
+           <header className="header">
+            <img src={logo} alt="Naija Eats Logo" className="header__logo" />
+           </header>
         </section>
     )
         
