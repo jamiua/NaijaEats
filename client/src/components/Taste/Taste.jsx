@@ -1,9 +1,28 @@
+import axios from "axios";
 import React, {Component} from "react";
 import "./Taste.scss";
+
+const SERVER_URL = process.env.REACT_APP_SERVER_URL;
 
 
 class Taste extends Component {
     
+    state = {
+        mealsData: [],
+        // selectedMeal: null,
+    }
+
+    componentDidMount = () => {
+        axios
+        .get(`${SERVER_URL}/meals`)
+        .then(response => {
+            console.log(response)
+
+        })
+        .catch( error => {
+            console.log(error);
+        })
+    }
 
     render() {
         return (
