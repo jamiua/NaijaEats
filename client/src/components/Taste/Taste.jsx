@@ -29,13 +29,13 @@ class Taste extends Component {
     }
     
     handleClick = (event, type) => {
-        event.preventDefault()
-        let userMeal = this.state.mealsData
+        event.preventDefault();
+        let userMeal = this.state.mealsData;
 
-        let userPossibleMeal = userMeal.filter(meal => meal.type === type)
+        let userPossibleMeal = userMeal.filter(meal => meal.type === type);
             console.log(userPossibleMeal);
         
-        let finalUserMeals = userPossibleMeal[Math.floor(Math.random() * userPossibleMeal.length)]
+        let finalUserMeals = userPossibleMeal[Math.floor(Math.random() * userPossibleMeal.length)];
        
 
         this.setState({selectedMeal: finalUserMeals})
@@ -47,7 +47,7 @@ class Taste extends Component {
     componentDidMount = () => {
         axios
         .get(`${SERVER_URL}/meals`)
-        .then(response => {
+        .then((response) => {
             const allMealsData = response.data
 
             this.setState({
