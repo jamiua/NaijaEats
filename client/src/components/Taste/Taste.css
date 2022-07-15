@@ -1,0 +1,20 @@
+.taste {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.taste__image {
+  border-radius: 50%;
+  font-size: 1.5rem;
+  border: 0.2rem solid #06C167;
+  padding: 1rem;
+  cursor: pointer;
+}
+.taste__image:hover {
+  transition: border-width 0.3s linear;
+  border: 0.4rem solid #06C167;
+}
+.taste__text {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}/*# sourceMappingURL=Taste.css.map */
